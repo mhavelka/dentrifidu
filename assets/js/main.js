@@ -10,7 +10,7 @@
 
 
     // set the date we're counting down to
-    var target_date = new Date('May, 24, 2018').getTime();
+    var target_date = new Date('September, 17, 2020').getTime();
 
     // variables for time units
     var days, hours, minutes, seconds;
