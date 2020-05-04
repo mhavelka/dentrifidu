@@ -176,7 +176,7 @@
               Příjezd hráčů ve čtvrtek do 20:00. V pátek workshopy. V sobotu osm až deset hodin hry, poté afterparty.<br>
               </p>
               <h2>KDE?</h2>
-              <p>Areál MUNA v obci Mikulovice (okres Jeseník)<br>
+              <p>Areál MUNA v obci <a href="https://goo.gl/maps/wnGu1W3i53EktHuq6" target="_blank">Mikulovice</a> (okres Jeseník)<br>
               GPS: 50°16'16.064"N, 17°19'21.260"E</p>
               <h2>ZÁZEMÍ</h2>
               <p>Na zemi ve vlastních spacácích a karimatkách. V objektu není elektřina ani voda, tu zajišťujeme v barelech. Je možné se vysprchovat v kilometr vzdáleném objektu. Jídlo je zajištěno od páteční po nedělní snídani.</p>
