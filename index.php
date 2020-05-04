@@ -200,7 +200,10 @@ Platbu zasílejte na náš transparentní účet číslo <a href="https://www.fi
             <br><br><br><br>
             </div>
             <div class="col-sm-8 col-sm-offset-2">
-              <p>Přihlašování odstartuje <strong>14. května v 19:00</strong> a bude trvat <strong>do 31. května 19:00</strong>. Z došlých přihlášek vylosujeme účastníky hry. Posléze jim na základě vyplněných informací pošleme na výběr ze tří postav.
+            <p><a href="https://forms.gle/XkxunJr6Pp6iffhw8" target="_blank" style="font-weight: bold;">>> PŘIHLÁŠKA ZDE <<</a></p>
+            </div>
+            <div class="col-sm-8 col-sm-offset-2">
+              <p>Přihlašování bude trvat <strong>do 31. května 19:00</strong>. Z došlých přihlášek vylosujeme účastníky hry. Posléze jim na základě vyplněných informací pošleme na výběr ze tří postav.
               </p>
               <p>Do losování zasáhneme pouze v případě, že bychom vnímali velký rozpor mezi očekáváním hráče a našimi možnostmi nebo bychom z jiných důvodů považovali hru pro vylosovaného za nevhodnou.</p>
             </div>
